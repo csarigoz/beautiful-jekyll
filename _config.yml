@@ -80,7 +80,10 @@ url-pretty: "csarigoz.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 disqus: cagrisarigoz
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: UA-56285353-1
+# google_analytics: UA-56285353-1
+
+# Google Tag Manager ID
+gtm: GTM-MRTVPH
 
 # Facebook App ID
 # fb_app_id: ""
