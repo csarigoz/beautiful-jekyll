@@ -10,3 +10,6 @@ ehthumbs.db
 
 #PyCharm related
 .idea
+
+#rvm files
+.rvmrc
